@@ -5,7 +5,7 @@ import net.idriss.dao.IDao;
 public class MetierImpl implements IMetier {
     private IDao dao;
 
-    public MetierImpl(IDao dao){
+    public MetierImpl(IDao dao) {
         this.dao = dao;
     }
 
