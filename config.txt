@@ -1,0 +1,2 @@
+net.idriss.dao.DaoImpl
+net.idriss.metier.MetierImpl
